@@ -98,7 +98,8 @@ Evidence and limitations
 - Full Docker Containers
 - API interface layer and LLM model proxy  
 
-## Our staff will be showing our technology at the NolaAi event from our founder.
+## Our staff will be showing our technology at the NolaAi event.
+Our Founder:
 - Dustin T Hughes 
 - New Orleans Jazz Museum
 - 400 Esplanade Ave, New Orleans, LA 70116
